@@ -1,0 +1,1001 @@
+Customer_Age,Income,Marital_Status,Education_Level,Number_of_Children,Shopping_History_Score,Product_Category_Interest,Discount_Offered,Purchased
+57,74292,Married,PhD,0,56,Sports,26,Yes
+68,23851,Married,PhD,3,93,Sports,40,No
+47,71396,Single,PhD,1,95,Electronics,32,Yes
+45,77218,Single,Bachelor,3,80,Fashion,38,Yes
+33,23443,Single,PhD,5,83,Home Decor,8,No
+48,35977,Divorced,High School,4,99,Electronics,21,No
+57,58101,Single,PhD,1,94,Home Decor,38,Yes
+65,67923,Single,High School,3,71,Sports,7,No
+57,83942,Divorced,PhD,4,96,Home Decor,10,No
+46,30745,Married,High School,5,12,Fashion,12,No
+48,29083,Single,High School,2,75,Fashion,21,No
+55,51638,Divorced,PhD,1,15,Sports,27,No
+21,46714,Divorced,High School,0,29,Sports,36,Yes
+45,119807,Divorced,PhD,1,82,Home Decor,48,Yes
+65,47180,Single,PhD,0,60,Sports,11,No
+25,106029,Single,Master,4,6,Fashion,20,No
+68,117165,Single,Master,4,10,Home Decor,17,No
+53,80427,Divorced,High School,1,61,Home Decor,9,No
+42,104419,Divorced,Master,3,18,Electronics,11,No
+30,38008,Married,Bachelor,3,88,Sports,48,No
+36,72861,Single,High School,5,21,Home Decor,5,No
+64,54589,Single,Bachelor,1,67,Sports,45,Yes
+69,37647,Married,High School,5,4,Sports,16,No
+27,71082,Married,Bachelor,5,29,Fashion,37,Yes
+52,78230,Single,Bachelor,0,13,Electronics,31,No
+45,51228,Divorced,Master,1,13,Sports,40,No
+70,112673,Married,Master,3,11,Electronics,36,No
+25,49029,Married,High School,1,99,Fashion,24,No
+40,27164,Single,Master,0,49,Home Decor,12,No
+18,21246,Married,High School,3,53,Home Decor,18,No
+38,110925,Divorced,Master,1,37,Home Decor,17,No
+39,35522,Single,PhD,2,98,Home Decor,27,No
+48,99493,Divorced,Bachelor,1,67,Fashion,50,Yes
+23,76640,Married,Master,4,79,Home Decor,42,Yes
+54,119319,Single,Bachelor,5,83,Home Decor,22,Yes
+50,65244,Single,PhD,3,73,Fashion,45,Yes
+46,100159,Divorced,PhD,2,4,Sports,38,No
+26,33709,Divorced,PhD,1,93,Fashion,13,No
+44,58467,Married,High School,1,38,Electronics,33,No
+62,61407,Married,Master,1,14,Sports,48,No
+58,105866,Divorced,High School,4,36,Home Decor,29,No
+35,28420,Divorced,Bachelor,0,73,Sports,47,No
+21,65091,Single,PhD,4,25,Electronics,45,Yes
+69,81377,Divorced,Bachelor,1,17,Fashion,21,No
+44,60009,Married,Bachelor,3,29,Electronics,19,No
+68,112402,Divorced,Bachelor,2,39,Sports,7,No
+60,39807,Single,Master,1,9,Sports,31,No
+41,112576,Divorced,High School,0,48,Fashion,40,No
+26,115239,Divorced,Master,1,86,Sports,14,No
+53,27198,Single,Master,3,22,Fashion,29,No
+31,55836,Divorced,High School,4,47,Fashion,11,No
+18,63619,Single,Bachelor,4,90,Electronics,14,No
+57,86578,Single,Master,0,71,Home Decor,20,No
+64,107574,Single,Master,2,39,Fashion,46,No
+36,26365,Married,Bachelor,4,77,Sports,29,No
+54,46397,Single,PhD,5,16,Electronics,45,No
+32,76104,Divorced,Bachelor,4,68,Electronics,15,No
+51,83654,Divorced,Bachelor,2,95,Home Decor,21,Yes
+28,74091,Single,Master,5,51,Fashion,22,Yes
+35,75729,Single,Master,3,41,Fashion,40,No
+48,43230,Divorced,Bachelor,2,21,Home Decor,23,No
+22,37502,Divorced,PhD,2,19,Fashion,26,No
+69,56132,Divorced,PhD,3,53,Fashion,24,Yes
+42,116983,Married,PhD,2,11,Home Decor,48,No
+59,83757,Married,Bachelor,4,65,Home Decor,29,Yes
+31,57961,Married,PhD,2,85,Sports,36,Yes
+45,54126,Married,High School,4,73,Home Decor,30,Yes
+31,97822,Married,Master,2,62,Home Decor,36,Yes
+54,54928,Married,High School,4,75,Sports,39,Yes
+59,23736,Divorced,PhD,5,93,Fashion,24,No
+28,114267,Single,Master,1,67,Fashion,21,Yes
+34,54849,Divorced,PhD,4,13,Electronics,15,No
+39,46419,Divorced,PhD,3,21,Fashion,29,No
+47,90080,Married,High School,1,61,Electronics,43,Yes
+33,94785,Single,Bachelor,4,39,Sports,44,No
+64,97288,Divorced,High School,2,52,Sports,6,No
+69,78732,Single,Bachelor,0,6,Sports,37,No
+58,23651,Divorced,High School,4,14,Fashion,17,No
+27,35911,Single,Bachelor,5,46,Sports,29,No
+41,35857,Single,Bachelor,4,62,Home Decor,34,No
+66,44462,Single,High School,1,59,Fashion,27,No
+34,81449,Divorced,Master,5,66,Home Decor,28,Yes
+69,75981,Divorced,Bachelor,0,64,Fashion,25,Yes
+49,20398,Divorced,High School,0,9,Fashion,39,No
+26,94758,Divorced,High School,3,67,Home Decor,18,No
+69,104632,Single,Bachelor,1,88,Fashion,48,Yes
+57,102383,Married,Master,3,4,Electronics,46,No
+32,31703,Single,Master,5,71,Home Decor,21,No
+69,116677,Divorced,Master,0,45,Electronics,13,No
+50,114860,Single,PhD,1,39,Sports,29,No
+68,105850,Married,Bachelor,1,46,Home Decor,29,No
+32,70515,Single,PhD,5,65,Electronics,31,Yes
+67,41289,Divorced,PhD,4,99,Fashion,30,No
+24,82370,Divorced,Master,3,70,Home Decor,36,Yes
+37,39458,Married,Master,0,83,Electronics,12,No
+45,109445,Married,Bachelor,1,45,Sports,27,No
+23,100645,Married,Master,2,4,Sports,39,Yes
+47,33240,Divorced,PhD,2,93,Fashion,28,No
+62,44400,Single,Bachelor,5,8,Sports,20,No
+29,54316,Single,Bachelor,3,32,Sports,21,No
+21,56990,Married,Master,0,42,Home Decor,17,No
+24,56111,Single,Bachelor,3,9,Electronics,48,Yes
+29,112491,Divorced,Bachelor,3,98,Electronics,31,Yes
+33,90549,Married,PhD,4,61,Sports,33,Yes
+36,46270,Divorced,Bachelor,5,86,Electronics,7,No
+18,102485,Divorced,Bachelor,3,49,Electronics,8,No
+27,42650,Single,High School,3,10,Sports,31,Yes
+59,111147,Divorced,High School,4,100,Electronics,34,Yes
+67,36450,Single,Master,1,50,Sports,39,No
+70,37781,Married,Master,0,26,Home Decor,31,No
+25,119037,Divorced,PhD,0,43,Sports,7,No
+58,96570,Married,Bachelor,0,65,Sports,35,Yes
+58,64501,Single,PhD,1,51,Sports,23,Yes
+70,70084,Single,High School,3,50,Home Decor,32,No
+41,80968,Divorced,Master,1,28,Sports,40,No
+64,35693,Married,Master,0,39,Sports,43,No
+63,71826,Divorced,Bachelor,3,66,Fashion,15,No
+42,80615,Married,PhD,1,61,Home Decor,27,Yes
+25,95014,Divorced,Master,4,6,Fashion,18,No
+64,39478,Married,High School,1,93,Electronics,22,No
+47,111754,Divorced,High School,5,25,Fashion,29,No
+54,86621,Single,PhD,5,36,Fashion,6,No
+46,82589,Single,Master,1,30,Fashion,47,No
+70,34267,Divorced,PhD,2,11,Home Decor,27,No
+65,89670,Single,Master,4,12,Electronics,34,No
+45,100333,Married,Master,4,39,Electronics,21,No
+60,53454,Single,Master,5,50,Fashion,11,No
+59,92449,Married,PhD,5,53,Sports,14,No
+30,82052,Single,PhD,4,63,Fashion,27,Yes
+32,119575,Single,Master,4,71,Fashion,18,No
+39,33299,Married,Master,2,42,Electronics,41,No
+51,110847,Divorced,PhD,5,75,Sports,35,Yes
+25,72102,Married,High School,2,3,Electronics,25,No
+27,93925,Single,High School,2,97,Sports,9,No
+25,72017,Single,PhD,2,45,Sports,8,No
+27,107597,Married,Master,3,10,Fashion,47,Yes
+29,77256,Divorced,Bachelor,2,80,Fashion,17,No
+62,59196,Single,Bachelor,1,45,Fashion,5,No
+58,62071,Divorced,Master,3,97,Fashion,36,Yes
+44,65053,Divorced,Master,0,55,Electronics,34,Yes
+68,38850,Divorced,PhD,3,77,Fashion,21,No
+53,67358,Divorced,PhD,0,47,Sports,20,No
+66,82276,Single,PhD,4,89,Sports,19,No
+47,22959,Divorced,PhD,5,93,Fashion,27,No
+36,80643,Single,Bachelor,3,35,Home Decor,31,No
+52,61026,Married,High School,5,87,Home Decor,8,No
+57,105880,Divorced,Master,3,40,Sports,16,No
+58,81047,Married,Bachelor,4,70,Fashion,5,No
+47,52789,Single,PhD,3,83,Electronics,29,Yes
+52,95258,Divorced,PhD,1,56,Fashion,49,Yes
+50,67538,Single,Master,3,95,Fashion,44,Yes
+22,62708,Divorced,Bachelor,3,46,Sports,46,Yes
+31,74642,Married,Master,2,1,Fashion,41,No
+68,22341,Single,Master,5,92,Electronics,25,No
+39,62160,Divorced,Bachelor,3,84,Home Decor,46,Yes
+38,119265,Single,PhD,3,37,Sports,11,No
+57,92905,Single,High School,0,57,Home Decor,25,Yes
+23,23047,Single,High School,3,59,Sports,38,Yes
+31,66673,Married,Bachelor,2,50,Home Decor,10,No
+52,23051,Married,PhD,5,8,Home Decor,38,No
+59,104721,Divorced,Bachelor,1,88,Sports,49,Yes
+21,34524,Single,High School,3,49,Fashion,21,No
+58,79027,Married,High School,3,46,Home Decor,37,No
+18,27605,Single,Bachelor,1,12,Electronics,9,No
+38,64990,Divorced,Master,1,20,Home Decor,44,No
+36,82171,Married,Bachelor,0,43,Electronics,30,No
+28,70289,Divorced,PhD,0,12,Electronics,31,Yes
+64,64134,Divorced,PhD,2,50,Sports,38,No
+44,74617,Single,Master,5,46,Sports,29,No
+46,42553,Single,Master,5,50,Home Decor,6,No
+24,101543,Divorced,High School,5,78,Home Decor,17,No
+22,83830,Divorced,PhD,4,71,Electronics,40,Yes
+56,84895,Married,High School,2,95,Home Decor,34,Yes
+56,44114,Divorced,High School,2,39,Electronics,45,No
+34,29791,Married,PhD,4,42,Home Decor,10,No
+68,45933,Married,PhD,4,10,Electronics,28,No
+46,86020,Married,High School,3,6,Fashion,44,No
+34,114597,Married,High School,0,27,Sports,39,No
+20,104587,Single,Bachelor,4,89,Fashion,45,Yes
+26,109853,Married,Master,1,59,Sports,22,Yes
+23,109199,Divorced,Bachelor,3,97,Electronics,37,Yes
+42,50601,Single,Bachelor,3,56,Fashion,44,Yes
+63,29564,Single,High School,4,6,Sports,31,No
+66,48582,Married,Master,1,51,Electronics,14,No
+60,34764,Single,High School,4,99,Electronics,46,No
+33,52775,Married,Bachelor,5,57,Home Decor,23,Yes
+30,55891,Married,Master,3,100,Sports,6,No
+18,99745,Single,Master,0,58,Electronics,24,Yes
+60,51188,Divorced,PhD,5,32,Sports,29,No
+39,112059,Married,High School,0,19,Fashion,35,No
+40,29357,Married,PhD,0,77,Sports,15,No
+60,85550,Married,Bachelor,0,41,Fashion,34,No
+62,77345,Married,Bachelor,3,57,Sports,40,Yes
+52,24424,Single,Bachelor,5,71,Electronics,22,No
+62,38853,Single,PhD,4,71,Home Decor,37,No
+44,20877,Single,PhD,0,91,Home Decor,25,No
+70,30808,Married,Bachelor,1,77,Fashion,19,No
+66,115534,Single,Bachelor,3,69,Fashion,12,No
+63,70592,Married,High School,3,56,Electronics,24,Yes
+26,95195,Divorced,PhD,2,79,Home Decor,7,No
+36,40504,Single,Master,5,15,Electronics,31,No
+41,85168,Married,Master,0,20,Fashion,30,No
+45,36143,Single,High School,0,81,Electronics,41,No
+21,62459,Single,Bachelor,2,12,Home Decor,45,Yes
+48,117407,Married,High School,2,91,Home Decor,47,Yes
+38,92268,Married,Bachelor,3,73,Home Decor,22,Yes
+25,55560,Divorced,Master,1,8,Sports,29,No
+33,62554,Single,PhD,4,7,Home Decor,21,No
+23,79799,Divorced,Master,3,26,Electronics,29,No
+51,58703,Single,Bachelor,2,56,Fashion,5,No
+69,40301,Divorced,High School,5,71,Home Decor,13,No
+67,112689,Married,High School,4,22,Home Decor,49,No
+25,55854,Single,Bachelor,3,28,Electronics,47,Yes
+69,52159,Single,Bachelor,1,86,Sports,21,Yes
+30,117046,Single,PhD,0,51,Sports,50,Yes
+70,33334,Divorced,High School,1,74,Fashion,41,No
+47,86820,Married,High School,2,96,Fashion,30,Yes
+30,37308,Married,PhD,4,20,Home Decor,20,No
+26,49176,Married,High School,2,85,Home Decor,45,Yes
+19,25490,Married,Master,1,88,Fashion,9,No
+49,49953,Single,Master,5,26,Electronics,22,No
+43,30151,Married,Bachelor,2,37,Electronics,20,No
+66,90707,Divorced,Master,5,21,Home Decor,22,No
+29,34876,Divorced,Bachelor,0,75,Sports,10,No
+64,30516,Single,Master,0,37,Sports,7,No
+32,96325,Divorced,Bachelor,4,49,Electronics,50,No
+43,98795,Married,Master,1,25,Home Decor,23,No
+45,89046,Divorced,Master,3,44,Fashion,42,No
+68,58560,Single,Bachelor,2,31,Sports,8,No
+45,39678,Married,Master,0,35,Home Decor,7,No
+54,84293,Divorced,Master,5,51,Sports,37,Yes
+53,32941,Single,Master,0,62,Sports,5,No
+62,60349,Divorced,PhD,0,75,Sports,16,No
+30,53540,Divorced,PhD,5,75,Sports,36,Yes
+53,26592,Divorced,High School,4,61,Electronics,39,No
+51,110038,Divorced,High School,3,82,Electronics,13,No
+70,67626,Single,Bachelor,2,96,Fashion,28,Yes
+68,110315,Married,High School,0,38,Electronics,38,No
+57,113305,Single,PhD,1,31,Electronics,16,No
+62,86441,Single,Bachelor,4,57,Electronics,14,No
+45,113303,Single,Bachelor,3,64,Home Decor,17,No
+56,23242,Divorced,Master,5,90,Electronics,42,No
+43,80057,Married,Bachelor,2,64,Sports,35,Yes
+23,84706,Single,Master,2,91,Home Decor,9,No
+25,84383,Single,Master,0,51,Electronics,46,Yes
+48,58373,Divorced,Master,5,78,Fashion,8,No
+49,28466,Single,Master,3,59,Home Decor,32,No
+26,28221,Single,High School,0,24,Home Decor,43,Yes
+38,26469,Divorced,PhD,4,43,Electronics,23,No
+28,36929,Married,PhD,5,4,Sports,16,No
+70,100684,Divorced,Master,5,97,Sports,20,No
+29,100721,Divorced,Master,3,49,Sports,33,Yes
+55,96630,Married,Master,1,56,Home Decor,33,Yes
+44,45202,Divorced,Master,4,25,Sports,38,No
+33,86532,Single,High School,1,69,Electronics,31,Yes
+29,26056,Married,High School,4,99,Home Decor,32,Yes
+44,56311,Divorced,Bachelor,0,41,Fashion,38,No
+20,104919,Single,PhD,2,17,Fashion,27,No
+59,32956,Married,PhD,3,8,Home Decor,40,No
+20,59885,Divorced,Bachelor,0,5,Sports,8,No
+56,94621,Married,High School,2,78,Electronics,31,Yes
+64,65373,Divorced,Master,5,21,Electronics,29,No
+42,24375,Single,PhD,2,29,Electronics,40,No
+26,55147,Single,High School,0,80,Sports,42,Yes
+35,27348,Divorced,Master,0,56,Electronics,11,No
+56,112408,Divorced,Bachelor,5,59,Home Decor,49,Yes
+25,30451,Single,PhD,1,18,Fashion,7,No
+20,115809,Married,Master,3,23,Home Decor,48,Yes
+64,103539,Divorced,Master,2,69,Sports,9,No
+27,105018,Married,PhD,5,35,Home Decor,14,No
+55,29092,Single,Master,2,67,Home Decor,38,No
+67,107268,Divorced,PhD,4,86,Home Decor,21,Yes
+49,33883,Married,PhD,0,91,Electronics,20,No
+61,42971,Divorced,Master,1,79,Fashion,44,No
+39,22863,Married,Master,5,64,Fashion,46,No
+35,71856,Married,Master,3,95,Sports,22,Yes
+66,40407,Divorced,PhD,4,86,Electronics,40,No
+39,69264,Married,PhD,5,56,Electronics,49,Yes
+57,117600,Divorced,Master,3,6,Fashion,10,No
+63,76158,Divorced,Master,3,100,Sports,19,No
+20,29491,Divorced,PhD,3,5,Home Decor,45,Yes
+38,28937,Married,Bachelor,0,47,Electronics,44,No
+52,76697,Single,High School,0,8,Sports,38,No
+30,48201,Divorced,Master,5,52,Home Decor,49,No
+52,57244,Divorced,Master,2,86,Sports,28,Yes
+22,70220,Single,Bachelor,5,65,Fashion,37,Yes
+59,103641,Married,Bachelor,1,31,Electronics,31,No
+34,100262,Divorced,High School,4,73,Sports,21,Yes
+18,42450,Single,Master,5,24,Electronics,23,No
+31,86086,Divorced,PhD,2,4,Electronics,40,No
+26,86727,Single,Bachelor,2,65,Fashion,30,Yes
+23,24738,Divorced,PhD,5,25,Home Decor,34,Yes
+65,118282,Divorced,Bachelor,5,26,Home Decor,8,No
+21,37131,Single,Bachelor,5,49,Sports,38,Yes
+39,111901,Single,High School,4,93,Electronics,42,Yes
+46,111616,Married,Bachelor,2,16,Home Decor,6,No
+47,114522,Married,Master,1,46,Sports,45,No
+33,111782,Single,PhD,3,90,Electronics,32,Yes
+68,111078,Single,High School,1,42,Sports,19,No
+49,49907,Single,High School,4,4,Sports,8,No
+22,77592,Married,Bachelor,0,98,Fashion,7,No
+63,96516,Single,PhD,0,12,Electronics,46,No
+65,54319,Married,High School,1,15,Electronics,5,No
+36,42192,Divorced,Master,0,3,Sports,21,No
+48,31524,Single,PhD,3,1,Electronics,47,No
+70,69363,Single,High School,2,47,Sports,6,No
+28,114715,Married,Bachelor,5,38,Fashion,22,No
+20,23979,Single,PhD,2,65,Electronics,33,Yes
+19,48764,Married,Master,0,55,Fashion,15,No
+68,60857,Married,High School,1,2,Home Decor,19,No
+34,21455,Single,Master,0,18,Home Decor,25,No
+22,94021,Married,PhD,2,66,Electronics,27,Yes
+59,75142,Single,High School,3,56,Home Decor,37,Yes
+53,51510,Divorced,High School,5,92,Sports,47,Yes
+23,33920,Divorced,Master,0,47,Home Decor,14,No
+28,47265,Married,PhD,5,91,Fashion,10,No
+52,31108,Divorced,High School,1,19,Sports,7,No
+65,97679,Married,High School,1,91,Electronics,28,Yes
+52,58818,Married,High School,2,9,Electronics,14,No
+49,52960,Single,High School,0,60,Fashion,12,No
+65,40302,Single,Bachelor,0,19,Electronics,31,No
+35,65327,Single,Master,1,87,Fashion,35,Yes
+61,98193,Married,PhD,1,29,Electronics,41,No
+63,31136,Single,Master,0,20,Sports,13,No
+60,101609,Single,High School,4,77,Fashion,14,No
+27,110055,Married,Master,3,83,Fashion,14,No
+55,106311,Married,High School,4,76,Sports,40,Yes
+55,38537,Divorced,High School,0,82,Home Decor,30,No
+37,101703,Married,High School,1,74,Home Decor,12,No
+24,72350,Divorced,Bachelor,5,13,Fashion,30,No
+54,59234,Divorced,High School,3,57,Fashion,21,Yes
+26,119630,Single,High School,3,60,Sports,28,Yes
+21,43592,Married,Bachelor,1,98,Fashion,19,No
+36,71402,Married,PhD,4,3,Fashion,22,No
+62,108216,Divorced,Bachelor,3,82,Electronics,33,Yes
+49,31718,Divorced,PhD,2,20,Electronics,36,No
+41,116903,Single,PhD,2,89,Home Decor,34,Yes
+21,67263,Married,PhD,5,1,Electronics,19,No
+61,53960,Divorced,Bachelor,5,22,Fashion,9,No
+31,57206,Single,PhD,5,52,Home Decor,45,Yes
+54,55180,Single,High School,1,44,Electronics,43,No
+23,115251,Married,High School,3,30,Home Decor,43,Yes
+27,114207,Married,Master,1,36,Electronics,41,Yes
+29,44689,Single,Bachelor,0,45,Home Decor,8,No
+60,25281,Married,Master,1,68,Home Decor,22,No
+45,39308,Single,PhD,1,48,Fashion,21,No
+51,98376,Single,Master,2,13,Electronics,49,No
+46,87330,Divorced,PhD,3,95,Fashion,34,Yes
+69,27510,Divorced,High School,5,81,Electronics,29,No
+50,98675,Divorced,PhD,4,50,Fashion,27,No
+32,30643,Single,PhD,5,7,Home Decor,44,No
+22,105889,Divorced,Bachelor,5,28,Fashion,30,No
+61,78861,Married,Bachelor,2,15,Electronics,13,No
+57,93175,Married,High School,4,76,Electronics,46,Yes
+22,58885,Married,High School,3,97,Fashion,28,Yes
+56,118830,Single,PhD,2,51,Fashion,50,Yes
+47,103891,Divorced,High School,5,56,Sports,10,No
+57,100599,Married,Master,1,29,Sports,12,No
+66,64071,Married,High School,3,76,Electronics,46,Yes
+62,42697,Married,Master,4,68,Home Decor,24,No
+63,74120,Divorced,Bachelor,1,60,Sports,6,No
+67,97137,Married,Bachelor,4,1,Fashion,26,No
+25,84535,Single,High School,0,79,Fashion,19,No
+54,72739,Single,Bachelor,3,1,Home Decor,35,No
+39,97581,Single,PhD,2,94,Electronics,43,Yes
+63,99285,Divorced,Master,3,62,Sports,5,No
+18,118196,Single,PhD,0,22,Home Decor,34,Yes
+46,83253,Divorced,Bachelor,3,48,Electronics,13,No
+66,54565,Single,Bachelor,0,92,Electronics,48,Yes
+43,102983,Single,PhD,2,84,Electronics,22,Yes
+37,102891,Married,High School,2,75,Home Decor,43,Yes
+56,99592,Divorced,PhD,1,36,Fashion,5,No
+31,43916,Divorced,PhD,2,42,Sports,49,No
+49,57543,Single,Bachelor,2,15,Sports,10,No
+18,114566,Single,PhD,4,19,Sports,6,No
+49,83569,Married,PhD,0,14,Sports,22,No
+49,114232,Married,Master,3,54,Home Decor,11,No
+20,43978,Divorced,Master,2,89,Fashion,36,Yes
+38,79474,Divorced,Master,5,68,Sports,46,Yes
+52,84979,Married,High School,4,48,Home Decor,29,No
+30,100125,Single,High School,1,40,Home Decor,40,No
+68,92660,Divorced,PhD,2,56,Electronics,37,Yes
+66,105765,Divorced,High School,4,4,Sports,15,No
+54,40092,Single,High School,3,96,Home Decor,36,No
+59,32031,Divorced,Bachelor,0,47,Electronics,17,No
+22,107379,Married,Master,1,1,Electronics,34,Yes
+22,20744,Divorced,Bachelor,5,29,Home Decor,31,Yes
+31,79317,Divorced,Bachelor,2,3,Sports,46,No
+30,26775,Divorced,Bachelor,5,32,Electronics,47,No
+27,27379,Married,High School,5,96,Home Decor,41,Yes
+25,95292,Married,Bachelor,3,77,Electronics,37,Yes
+33,73062,Single,Master,0,6,Fashion,46,No
+20,103474,Single,High School,1,48,Home Decor,14,No
+61,86852,Single,High School,4,60,Electronics,50,Yes
+59,97117,Married,PhD,2,97,Sports,40,Yes
+40,52787,Divorced,Bachelor,1,72,Fashion,20,No
+53,51078,Married,Bachelor,1,66,Electronics,35,Yes
+55,26395,Married,PhD,3,60,Electronics,46,No
+52,96709,Divorced,PhD,2,68,Electronics,37,Yes
+20,40285,Single,Bachelor,4,45,Home Decor,33,Yes
+51,41185,Divorced,Master,2,84,Home Decor,16,No
+19,107071,Married,Bachelor,0,37,Electronics,43,Yes
+64,64730,Married,Master,5,44,Fashion,48,No
+39,119973,Divorced,PhD,4,72,Fashion,38,Yes
+70,74957,Single,PhD,5,71,Home Decor,35,Yes
+44,39404,Divorced,PhD,5,84,Electronics,16,No
+60,63906,Married,High School,0,39,Fashion,28,No
+63,53099,Married,Bachelor,5,60,Electronics,32,Yes
+47,56705,Divorced,PhD,5,44,Sports,14,No
+28,50364,Divorced,Master,4,78,Sports,46,Yes
+66,61007,Single,Bachelor,2,23,Electronics,30,No
+64,52419,Single,Bachelor,1,62,Electronics,42,Yes
+70,102970,Married,Master,5,54,Home Decor,6,No
+36,103146,Married,Master,1,69,Fashion,7,No
+44,21506,Single,High School,2,98,Home Decor,18,No
+45,35401,Single,Master,2,22,Home Decor,10,No
+28,38927,Divorced,Master,1,8,Home Decor,34,Yes
+24,37081,Married,High School,1,5,Fashion,41,Yes
+58,78032,Married,Bachelor,3,96,Fashion,6,No
+52,36522,Divorced,PhD,1,63,Home Decor,33,No
+69,39146,Divorced,PhD,4,34,Fashion,11,No
+61,108516,Married,High School,5,87,Home Decor,7,No
+63,111213,Single,Master,0,38,Home Decor,31,No
+23,119932,Divorced,High School,1,36,Home Decor,38,Yes
+24,59685,Married,Master,5,55,Electronics,32,Yes
+54,110563,Single,Bachelor,5,59,Fashion,32,Yes
+70,46292,Divorced,PhD,5,45,Sports,47,No
+33,52441,Married,PhD,4,12,Electronics,27,No
+65,119010,Single,High School,5,85,Sports,22,Yes
+36,31250,Married,Bachelor,4,42,Home Decor,23,No
+33,25900,Divorced,High School,5,74,Fashion,23,No
+29,62189,Married,Master,1,8,Fashion,30,No
+40,38665,Married,Master,3,53,Fashion,15,No
+69,102923,Married,High School,4,55,Home Decor,17,No
+63,51223,Single,Bachelor,5,34,Fashion,37,No
+57,73425,Single,Bachelor,2,12,Fashion,35,No
+48,82937,Married,High School,1,35,Electronics,44,No
+61,60947,Single,High School,5,82,Home Decor,16,No
+23,58283,Divorced,PhD,0,79,Sports,40,Yes
+33,74596,Married,High School,1,21,Home Decor,14,No
+30,21996,Single,PhD,5,2,Sports,45,No
+24,92286,Married,High School,5,7,Fashion,38,Yes
+20,53810,Married,Bachelor,5,83,Home Decor,21,Yes
+59,42947,Divorced,High School,0,57,Electronics,42,No
+64,53554,Single,PhD,5,54,Electronics,11,No
+52,31478,Single,PhD,4,82,Sports,40,No
+33,82018,Divorced,Master,3,39,Sports,36,No
+59,59150,Married,Bachelor,5,76,Home Decor,38,Yes
+47,98544,Divorced,Master,3,67,Home Decor,29,Yes
+22,106118,Divorced,Bachelor,1,28,Electronics,6,No
+53,104115,Married,Bachelor,1,56,Sports,29,Yes
+28,97023,Married,PhD,0,5,Sports,34,Yes
+68,62382,Single,Master,5,28,Sports,20,No
+29,41203,Divorced,PhD,5,58,Fashion,34,Yes
+49,74587,Married,Bachelor,3,52,Electronics,19,No
+23,67372,Single,High School,5,27,Home Decor,40,Yes
+30,81790,Married,PhD,5,74,Fashion,42,Yes
+53,98913,Married,High School,3,57,Home Decor,32,Yes
+62,20169,Single,PhD,4,91,Electronics,8,No
+54,69388,Divorced,Master,2,4,Electronics,26,No
+31,52506,Single,Bachelor,1,52,Home Decor,31,Yes
+67,85815,Married,Bachelor,2,18,Home Decor,17,No
+40,85255,Divorced,High School,2,58,Sports,19,No
+29,52463,Single,Master,4,88,Fashion,20,No
+27,90098,Married,Bachelor,1,35,Home Decor,19,No
+53,108837,Single,High School,5,45,Electronics,37,No
+53,57227,Single,PhD,0,9,Home Decor,17,No
+59,45696,Married,Bachelor,1,44,Fashion,29,No
+30,61281,Single,High School,5,98,Home Decor,34,Yes
+19,75722,Married,Master,3,89,Electronics,38,Yes
+45,76303,Divorced,High School,1,51,Fashion,49,Yes
+39,47829,Married,High School,5,9,Sports,30,No
+55,42307,Divorced,PhD,3,55,Sports,35,No
+44,23378,Divorced,High School,3,19,Fashion,43,No
+18,79607,Married,High School,3,69,Sports,27,Yes
+46,67798,Divorced,PhD,3,91,Electronics,10,No
+60,82675,Divorced,Bachelor,0,63,Sports,42,Yes
+58,21370,Married,Bachelor,0,1,Home Decor,8,No
+52,78424,Married,Bachelor,0,51,Home Decor,15,No
+19,96701,Divorced,Bachelor,3,74,Home Decor,45,Yes
+62,93540,Single,Master,1,16,Electronics,20,No
+20,66560,Single,PhD,0,93,Home Decor,18,No
+21,69792,Divorced,PhD,1,31,Home Decor,29,No
+40,93648,Single,Master,2,81,Home Decor,28,Yes
+26,99960,Divorced,Bachelor,5,30,Home Decor,20,No
+37,50156,Married,Bachelor,4,49,Sports,24,No
+23,52286,Married,PhD,4,64,Sports,27,Yes
+35,88225,Divorced,Master,1,96,Fashion,13,No
+21,87061,Married,High School,5,68,Sports,43,Yes
+39,60178,Married,Master,1,85,Electronics,32,Yes
+61,67280,Married,Bachelor,0,60,Fashion,41,Yes
+25,47757,Married,Master,3,55,Home Decor,21,No
+47,113829,Married,PhD,4,78,Sports,36,Yes
+52,113996,Divorced,Bachelor,4,74,Fashion,18,No
+65,81826,Divorced,PhD,5,26,Home Decor,42,No
+32,28245,Married,High School,1,23,Electronics,12,No
+27,96473,Divorced,Master,0,97,Fashion,49,Yes
+38,47032,Divorced,PhD,1,47,Electronics,40,No
+33,107647,Divorced,Bachelor,4,83,Home Decor,45,Yes
+25,37862,Married,Master,5,15,Home Decor,12,No
+29,69756,Married,Master,5,82,Sports,26,Yes
+60,105939,Single,Master,2,70,Fashion,40,Yes
+59,31495,Divorced,Bachelor,4,69,Fashion,11,No
+40,70839,Divorced,PhD,2,93,Fashion,50,Yes
+29,50065,Divorced,Master,2,70,Sports,26,Yes
+33,20470,Married,Bachelor,5,20,Home Decor,11,No
+24,45884,Married,Master,4,46,Home Decor,9,No
+59,86585,Divorced,High School,4,96,Fashion,35,Yes
+65,26844,Single,Bachelor,3,37,Sports,30,No
+49,37514,Married,High School,0,83,Electronics,32,No
+48,107387,Divorced,Master,0,23,Electronics,8,No
+37,104609,Divorced,High School,1,95,Sports,50,Yes
+46,69021,Single,High School,3,19,Sports,43,No
+69,35199,Single,Master,1,14,Home Decor,26,No
+26,61647,Divorced,Bachelor,4,90,Home Decor,26,Yes
+53,36767,Divorced,Bachelor,3,7,Fashion,12,No
+20,110480,Single,Master,2,11,Electronics,30,No
+49,105484,Single,Master,1,53,Electronics,19,No
+21,69032,Divorced,Bachelor,0,49,Home Decor,42,Yes
+51,27539,Married,PhD,3,49,Sports,7,No
+56,81729,Divorced,High School,2,4,Electronics,21,No
+58,33759,Married,Master,3,33,Sports,29,No
+51,27110,Divorced,High School,4,25,Electronics,40,No
+50,30561,Single,PhD,0,67,Home Decor,25,No
+30,24521,Single,High School,0,12,Sports,24,No
+20,63022,Divorced,Bachelor,2,36,Home Decor,13,No
+44,107494,Divorced,High School,5,5,Home Decor,45,No
+22,115012,Single,Master,0,69,Electronics,20,No
+58,87509,Single,Master,1,60,Home Decor,10,No
+25,94677,Married,High School,2,90,Fashion,34,Yes
+63,62433,Married,Bachelor,5,74,Home Decor,20,No
+29,115874,Married,Bachelor,5,1,Electronics,46,Yes
+49,89649,Single,High School,4,10,Sports,37,No
+19,112931,Married,Master,1,12,Sports,31,Yes
+64,61757,Married,Master,2,46,Electronics,7,No
+36,85240,Single,PhD,0,4,Electronics,30,No
+33,47640,Divorced,High School,2,77,Fashion,40,No
+64,111672,Married,High School,3,56,Electronics,36,Yes
+45,53167,Married,High School,1,43,Home Decor,5,No
+61,91378,Divorced,High School,5,39,Sports,8,No
+29,63204,Single,Bachelor,1,88,Home Decor,48,Yes
+63,41371,Divorced,PhD,3,82,Sports,7,No
+24,47307,Single,PhD,1,51,Home Decor,36,Yes
+56,113881,Single,High School,1,56,Home Decor,32,Yes
+67,45564,Married,Master,5,83,Home Decor,42,No
+55,74009,Single,Bachelor,0,72,Electronics,8,No
+48,64649,Single,PhD,5,44,Sports,18,No
+60,59353,Single,Master,4,21,Sports,42,No
+47,38112,Single,PhD,0,77,Electronics,33,No
+28,76195,Single,High School,1,25,Sports,48,Yes
+46,65660,Divorced,High School,0,62,Fashion,33,Yes
+48,53481,Single,Master,1,35,Electronics,49,No
+34,47799,Divorced,Bachelor,1,18,Home Decor,26,No
+62,49236,Married,Master,0,46,Fashion,15,No
+37,24247,Divorced,Bachelor,2,11,Fashion,13,No
+33,22953,Divorced,Bachelor,2,53,Fashion,48,No
+68,35283,Single,Bachelor,1,19,Fashion,5,No
+66,102182,Divorced,Bachelor,4,94,Sports,35,Yes
+38,97907,Single,Bachelor,0,86,Sports,13,No
+31,84745,Single,PhD,0,46,Fashion,5,No
+58,105144,Divorced,Master,1,29,Sports,23,No
+54,28666,Married,Master,4,88,Fashion,16,No
+21,101652,Divorced,High School,0,53,Fashion,47,Yes
+20,55623,Divorced,PhD,5,91,Home Decor,41,Yes
+53,97547,Married,Bachelor,1,45,Sports,26,No
+55,108404,Divorced,Master,4,5,Home Decor,38,No
+36,110804,Single,High School,0,43,Fashion,23,No
+59,20747,Divorced,Master,1,43,Fashion,10,No
+19,76185,Married,Bachelor,0,18,Electronics,8,No
+68,99620,Single,Master,5,51,Fashion,43,Yes
+61,94364,Single,PhD,2,9,Home Decor,10,No
+40,105238,Divorced,Bachelor,5,68,Fashion,35,Yes
+28,66258,Divorced,PhD,4,62,Home Decor,31,Yes
+55,29290,Married,Bachelor,2,22,Electronics,19,No
+60,74090,Divorced,Bachelor,4,94,Home Decor,45,Yes
+59,50139,Married,Bachelor,2,24,Fashion,46,No
+46,29602,Divorced,Bachelor,3,78,Fashion,33,No
+29,103641,Married,Bachelor,5,4,Sports,16,No
+70,47286,Single,Bachelor,5,37,Electronics,6,No
+18,48641,Divorced,High School,0,6,Sports,21,No
+54,54426,Divorced,High School,4,88,Home Decor,10,No
+69,75347,Married,Bachelor,2,95,Electronics,25,Yes
+26,47760,Married,PhD,5,11,Home Decor,35,Yes
+48,59413,Married,Bachelor,4,36,Fashion,18,No
+46,98694,Divorced,PhD,1,10,Sports,28,No
+50,110270,Married,Master,4,72,Electronics,33,Yes
+57,37560,Married,High School,0,32,Sports,21,No
+35,105155,Divorced,PhD,5,51,Electronics,37,Yes
+58,23653,Single,PhD,0,79,Home Decor,27,No
+61,94869,Married,Bachelor,0,58,Electronics,14,No
+64,28480,Divorced,High School,0,90,Electronics,12,No
+37,78040,Married,Bachelor,3,13,Electronics,15,No
+32,22505,Single,Bachelor,1,85,Electronics,8,No
+46,48132,Divorced,Master,2,18,Electronics,37,No
+22,43163,Married,Bachelor,4,24,Fashion,35,Yes
+55,45699,Divorced,Bachelor,5,33,Home Decor,41,No
+69,41215,Divorced,Bachelor,5,31,Home Decor,28,No
+52,26529,Divorced,Master,4,80,Home Decor,9,No
+68,37973,Single,Bachelor,2,15,Home Decor,26,No
+26,52913,Single,High School,4,60,Fashion,23,Yes
+20,96147,Single,Bachelor,3,74,Home Decor,15,No
+29,56705,Single,High School,1,58,Sports,18,No
+60,53141,Single,Bachelor,0,30,Sports,18,No
+23,45895,Single,Bachelor,0,60,Fashion,26,No
+48,54481,Divorced,PhD,4,72,Home Decor,28,Yes
+21,39374,Single,Bachelor,0,44,Home Decor,7,No
+20,44308,Divorced,PhD,2,25,Fashion,6,No
+23,115557,Married,Master,1,21,Fashion,35,Yes
+67,66884,Divorced,High School,3,19,Home Decor,33,No
+65,81635,Single,High School,2,38,Electronics,11,No
+68,36625,Single,High School,1,89,Sports,27,No
+19,30159,Divorced,PhD,4,5,Sports,40,Yes
+37,49561,Single,PhD,0,28,Fashion,49,No
+38,30552,Divorced,Bachelor,4,67,Home Decor,6,No
+46,22952,Divorced,PhD,4,78,Electronics,10,No
+56,110059,Divorced,Bachelor,3,76,Home Decor,41,Yes
+58,33001,Married,Bachelor,2,82,Electronics,27,No
+49,86240,Married,High School,0,16,Fashion,26,No
+50,30893,Divorced,Master,0,60,Home Decor,50,No
+40,112577,Single,High School,3,53,Sports,5,No
+53,24983,Single,Master,2,99,Fashion,33,No
+64,94514,Married,Bachelor,1,7,Fashion,25,No
+21,56406,Divorced,Master,2,60,Home Decor,50,Yes
+59,63902,Married,Bachelor,4,33,Fashion,14,No
+41,86131,Single,Bachelor,3,100,Home Decor,9,No
+69,85266,Single,PhD,4,64,Sports,49,Yes
+65,90870,Married,PhD,3,57,Electronics,11,No
+34,46914,Married,Bachelor,3,27,Fashion,31,No
+65,27340,Married,High School,5,1,Home Decor,50,No
+33,31825,Married,High School,1,42,Home Decor,12,No
+43,106370,Single,Bachelor,3,84,Sports,32,Yes
+37,45895,Divorced,High School,2,15,Fashion,10,No
+64,86424,Married,PhD,3,18,Fashion,44,No
+54,29126,Single,Bachelor,3,32,Electronics,47,No
+60,59293,Divorced,Bachelor,3,57,Home Decor,5,No
+20,81925,Single,Master,5,94,Fashion,5,No
+56,73082,Married,Bachelor,4,63,Electronics,50,Yes
+20,117233,Single,Bachelor,1,64,Home Decor,34,Yes
+21,67245,Married,Bachelor,0,63,Sports,6,No
+19,95966,Divorced,PhD,2,14,Home Decor,8,No
+23,102731,Divorced,Bachelor,0,30,Home Decor,35,Yes
+50,48281,Single,PhD,1,63,Sports,33,No
+38,109903,Single,Bachelor,1,58,Home Decor,38,Yes
+52,49613,Single,Master,5,69,Home Decor,20,No
+63,59555,Single,Master,0,93,Home Decor,7,No
+18,64504,Divorced,PhD,1,10,Sports,48,Yes
+65,95879,Married,PhD,1,67,Home Decor,41,Yes
+69,40202,Divorced,Bachelor,0,41,Electronics,50,No
+70,68385,Divorced,PhD,3,50,Sports,41,No
+23,109023,Divorced,PhD,2,65,Home Decor,38,Yes
+37,56143,Single,PhD,4,21,Fashion,13,No
+47,27897,Married,PhD,5,100,Home Decor,43,No
+25,59943,Single,Master,0,70,Fashion,36,Yes
+18,99704,Married,Bachelor,1,9,Electronics,42,Yes
+29,115182,Single,High School,3,96,Home Decor,25,Yes
+63,37721,Divorced,Bachelor,3,28,Fashion,10,No
+27,70305,Divorced,High School,0,72,Home Decor,49,Yes
+63,107199,Single,Master,3,66,Home Decor,5,No
+41,44048,Married,Master,5,86,Home Decor,17,No
+39,54942,Married,High School,0,81,Home Decor,19,No
+45,88414,Single,Bachelor,1,63,Electronics,20,No
+42,39196,Single,Master,1,90,Fashion,42,No
+40,24344,Single,Bachelor,1,96,Fashion,40,No
+41,45863,Married,PhD,1,76,Sports,20,No
+33,119932,Divorced,Master,4,18,Fashion,28,No
+32,104220,Divorced,High School,2,85,Fashion,43,Yes
+38,104270,Married,High School,1,30,Electronics,41,No
+41,62739,Married,Bachelor,3,53,Fashion,8,No
+63,82964,Divorced,Master,5,16,Sports,33,No
+31,51068,Single,Bachelor,3,39,Electronics,32,No
+56,83730,Divorced,PhD,3,32,Sports,8,No
+37,62631,Married,Bachelor,5,16,Electronics,24,No
+66,116465,Divorced,Master,1,39,Sports,31,No
+54,49680,Single,Master,5,10,Electronics,12,No
+34,99695,Married,High School,5,51,Electronics,20,No
+48,45859,Single,Master,1,85,Home Decor,5,No
+52,108997,Single,Bachelor,4,90,Sports,45,Yes
+37,117579,Single,PhD,1,28,Sports,46,No
+63,97447,Divorced,PhD,2,3,Home Decor,17,No
+34,23073,Single,PhD,5,11,Sports,21,No
+62,73819,Married,PhD,2,54,Home Decor,49,Yes
+42,91526,Single,PhD,3,62,Electronics,27,Yes
+29,90349,Divorced,Bachelor,1,96,Electronics,50,Yes
+41,64674,Single,Bachelor,5,41,Electronics,33,No
+65,82255,Married,PhD,1,90,Home Decor,20,No
+55,25108,Single,Bachelor,1,59,Electronics,42,No
+27,20564,Divorced,Master,0,5,Fashion,40,Yes
+70,102802,Single,High School,3,66,Sports,48,Yes
+49,76230,Married,PhD,1,26,Electronics,19,No
+56,60670,Divorced,Bachelor,3,43,Electronics,47,No
+51,94862,Divorced,High School,3,17,Electronics,6,No
+29,86295,Single,PhD,1,6,Fashion,10,No
+63,55257,Divorced,Bachelor,1,73,Fashion,40,Yes
+58,104675,Single,PhD,5,89,Sports,25,Yes
+35,31417,Single,High School,3,39,Sports,49,No
+30,97912,Divorced,Bachelor,2,23,Sports,11,No
+70,60116,Divorced,Bachelor,2,42,Electronics,29,No
+27,67313,Married,PhD,0,8,Home Decor,49,Yes
+31,56288,Single,Master,1,7,Fashion,32,No
+48,114653,Married,High School,5,72,Sports,38,Yes
+49,78479,Married,Bachelor,4,78,Electronics,32,Yes
+50,25385,Single,PhD,0,72,Sports,14,No
+41,22686,Single,Bachelor,5,94,Electronics,38,No
+44,56499,Single,Bachelor,5,76,Sports,9,No
+46,100283,Married,Master,5,48,Electronics,39,No
+45,117053,Single,High School,0,41,Home Decor,8,No
+50,41565,Single,Master,1,39,Home Decor,20,No
+55,104703,Married,Master,2,55,Home Decor,18,No
+35,33485,Married,PhD,2,42,Electronics,39,No
+65,29167,Single,PhD,4,63,Home Decor,33,No
+27,31459,Divorced,High School,0,78,Electronics,49,Yes
+49,118939,Single,PhD,2,2,Electronics,33,No
+63,58364,Married,Master,5,61,Home Decor,29,Yes
+63,62364,Married,High School,3,2,Home Decor,6,No
+41,58858,Single,High School,1,81,Electronics,38,Yes
+67,86073,Married,High School,3,49,Home Decor,29,No
+30,109975,Single,PhD,5,2,Fashion,19,No
+63,53678,Divorced,Master,5,61,Electronics,43,Yes
+49,77696,Single,Master,5,50,Sports,26,No
+47,36495,Married,Bachelor,5,21,Sports,21,No
+61,104554,Divorced,Bachelor,4,63,Fashion,6,No
+58,28122,Divorced,Bachelor,5,11,Sports,23,No
+29,59184,Married,PhD,5,16,Electronics,20,No
+42,33089,Married,Bachelor,5,63,Electronics,15,No
+63,23869,Single,Bachelor,0,44,Electronics,11,No
+63,109154,Single,Bachelor,0,89,Electronics,41,Yes
+48,32102,Single,High School,4,50,Electronics,27,No
+39,31951,Divorced,Master,0,86,Home Decor,13,No
+46,117225,Married,Bachelor,4,1,Fashion,12,No
+27,66874,Divorced,Bachelor,1,85,Home Decor,31,Yes
+48,108972,Divorced,PhD,2,92,Fashion,47,Yes
+46,22870,Married,Bachelor,5,98,Electronics,40,No
+69,48605,Married,Master,5,25,Electronics,33,No
+42,54105,Divorced,PhD,5,77,Home Decor,21,Yes
+36,73305,Single,High School,0,10,Sports,17,No
+27,92729,Single,PhD,2,39,Sports,9,No
+39,60327,Married,High School,0,95,Electronics,22,Yes
+46,88669,Single,PhD,1,20,Sports,34,No
+31,31738,Single,Master,3,41,Electronics,46,No
+38,83857,Married,Bachelor,4,64,Fashion,41,Yes
+24,81020,Married,High School,5,29,Home Decor,40,Yes
+25,63613,Divorced,PhD,4,39,Sports,47,Yes
+62,119575,Married,PhD,0,54,Fashion,34,Yes
+31,55286,Married,PhD,0,50,Sports,24,No
+20,82570,Divorced,PhD,5,63,Electronics,28,Yes
+60,39013,Married,PhD,5,65,Electronics,21,No
+40,57918,Married,Master,3,3,Sports,8,No
+43,37408,Single,Bachelor,5,34,Electronics,48,No
+39,101654,Divorced,Bachelor,0,45,Electronics,42,No
+58,112987,Divorced,Master,0,36,Home Decor,36,No
+65,44600,Divorced,Master,3,14,Sports,7,No
+32,110581,Single,Bachelor,3,39,Fashion,47,No
+45,109343,Married,Bachelor,3,31,Home Decor,22,No
+56,38680,Divorced,PhD,1,40,Home Decor,39,No
+25,63969,Single,PhD,2,26,Sports,32,Yes
+19,77274,Single,PhD,1,77,Home Decor,13,No
+59,111785,Married,Bachelor,3,99,Electronics,14,No
+61,47416,Divorced,Master,4,31,Fashion,29,No
+52,83118,Single,PhD,1,86,Electronics,5,No
+56,71997,Divorced,Bachelor,3,67,Sports,16,No
+44,20744,Divorced,Bachelor,5,4,Electronics,14,No
+45,114516,Single,PhD,2,17,Electronics,5,No
+35,117406,Divorced,PhD,0,62,Sports,48,Yes
+53,26549,Married,High School,2,92,Electronics,11,No
+25,102178,Divorced,Bachelor,2,77,Fashion,32,Yes
+48,114584,Single,Master,1,14,Electronics,32,No
+19,35518,Married,Bachelor,0,33,Home Decor,7,No
+70,45595,Divorced,Master,0,35,Fashion,24,No
+21,44353,Single,Bachelor,0,10,Fashion,42,Yes
+23,81869,Divorced,Bachelor,2,74,Fashion,23,Yes
+26,74173,Married,PhD,5,47,Fashion,48,Yes
+70,115152,Single,Master,1,66,Sports,27,Yes
+43,97727,Married,Bachelor,3,26,Fashion,16,No
+39,93475,Single,High School,0,76,Electronics,12,No
+23,91782,Divorced,PhD,0,86,Sports,43,Yes
+62,60684,Married,Bachelor,0,84,Electronics,41,Yes
+34,105299,Single,Bachelor,3,84,Sports,14,No
+63,111149,Married,Bachelor,1,61,Electronics,24,Yes
+51,57942,Divorced,High School,5,49,Sports,24,No
+70,113310,Divorced,Master,5,94,Home Decor,50,Yes
+61,89483,Married,Bachelor,5,6,Sports,30,No
+38,113399,Married,Master,1,47,Fashion,14,No
+66,59926,Divorced,Master,4,96,Electronics,16,No
+29,36520,Married,High School,1,2,Home Decor,10,No
+20,41325,Single,PhD,0,56,Home Decor,18,No
+33,43718,Divorced,Master,4,65,Electronics,44,No
+69,54723,Single,High School,0,19,Electronics,50,No
+69,43250,Married,High School,5,41,Electronics,40,No
+67,28568,Single,PhD,5,35,Home Decor,8,No
+40,47362,Single,Bachelor,4,60,Home Decor,10,No
+44,43874,Married,Master,5,98,Fashion,48,No
+37,84783,Married,High School,1,49,Electronics,42,No
+29,89998,Married,High School,0,54,Home Decor,40,Yes
+68,114513,Single,Master,1,83,Sports,24,Yes
+56,104950,Single,Master,0,80,Home Decor,44,Yes
+54,89082,Divorced,High School,1,65,Sports,19,No
+68,27989,Married,PhD,5,86,Electronics,25,No
+43,44427,Married,High School,5,79,Electronics,38,No
+19,23327,Single,Master,3,54,Sports,19,No
+20,85892,Married,Master,4,59,Electronics,17,No
+21,108254,Single,High School,2,49,Electronics,37,Yes
+20,92412,Married,Master,3,43,Sports,7,No
+24,61154,Single,PhD,5,67,Sports,49,Yes
+50,25232,Married,High School,4,19,Sports,23,No
+53,91754,Single,PhD,0,25,Fashion,26,No
+39,82696,Single,Bachelor,4,39,Sports,6,No
+56,111628,Single,Bachelor,0,81,Fashion,15,No
+24,24879,Single,Bachelor,1,84,Electronics,31,Yes
+36,104404,Divorced,PhD,3,23,Sports,38,No
+65,32724,Divorced,PhD,4,85,Fashion,35,No
+63,116884,Divorced,Master,3,2,Sports,34,No
+25,100128,Single,Bachelor,2,76,Sports,11,No
+50,80714,Married,High School,0,52,Home Decor,17,No
+67,37767,Single,High School,5,71,Electronics,39,No
+37,74638,Divorced,PhD,4,4,Electronics,29,No
+28,64041,Single,Master,2,45,Home Decor,7,No
+65,67443,Single,Bachelor,4,10,Electronics,23,No
+48,42133,Single,High School,1,93,Sports,24,No
+70,72482,Married,Bachelor,5,86,Sports,35,Yes
+31,93194,Single,PhD,4,39,Sports,37,No
+39,110933,Single,Bachelor,1,34,Sports,48,No
+49,94914,Divorced,High School,2,44,Sports,45,No
+45,25688,Married,Master,0,29,Electronics,20,No
+46,53144,Married,High School,5,57,Electronics,37,Yes
+46,57660,Divorced,High School,4,34,Electronics,30,No
+39,56442,Divorced,Master,2,19,Electronics,17,No
+31,100471,Divorced,Master,4,31,Sports,6,No
+64,20235,Single,PhD,4,45,Fashion,36,No
+66,76162,Divorced,Master,5,100,Home Decor,47,Yes
+57,76576,Married,Master,1,22,Fashion,33,No
+37,101871,Divorced,PhD,5,53,Electronics,38,Yes
+27,48126,Married,Bachelor,1,35,Sports,10,No
+24,48827,Married,High School,5,3,Electronics,10,No
+18,50321,Married,PhD,4,70,Home Decor,50,Yes
+28,57143,Divorced,Master,4,88,Home Decor,5,No
+39,23159,Married,PhD,3,5,Home Decor,34,No
+28,81124,Divorced,Bachelor,1,6,Fashion,41,Yes
+56,89970,Married,High School,0,68,Electronics,45,Yes
+67,51352,Married,High School,0,35,Fashion,25,No
+29,63823,Married,PhD,4,94,Sports,46,Yes
+42,34103,Married,High School,1,69,Electronics,5,No
+36,109712,Married,Master,5,83,Sports,29,Yes
+23,82726,Divorced,Master,2,83,Electronics,41,Yes
+29,81457,Married,PhD,5,59,Fashion,45,Yes
+59,60823,Married,Master,2,84,Electronics,5,No
+49,43336,Married,PhD,1,97,Electronics,27,No
+53,110340,Divorced,Bachelor,3,52,Sports,7,No
+22,30806,Single,PhD,3,80,Fashion,49,Yes
+37,57321,Divorced,High School,2,64,Electronics,32,Yes
+45,83150,Divorced,Bachelor,3,60,Home Decor,43,Yes
+67,107713,Single,PhD,3,17,Sports,13,No
+67,105080,Married,PhD,4,11,Electronics,24,No
+68,67813,Divorced,Master,2,59,Home Decor,35,Yes
+34,58559,Married,PhD,5,8,Sports,22,No
+46,101505,Married,Master,2,26,Electronics,40,No
+30,96232,Married,High School,4,53,Electronics,48,Yes
+59,51493,Married,PhD,4,63,Fashion,35,Yes
+23,20574,Single,PhD,5,96,Sports,8,No
+53,51587,Divorced,High School,4,60,Fashion,16,No
+20,85866,Married,Master,4,35,Sports,34,Yes
+64,59103,Married,PhD,3,57,Home Decor,24,Yes
+54,59260,Single,Master,1,37,Home Decor,46,No
+60,21132,Divorced,Bachelor,2,69,Fashion,8,No
+43,72876,Married,High School,5,60,Home Decor,23,Yes
+32,87356,Single,High School,1,82,Electronics,36,Yes
+54,50887,Divorced,Bachelor,1,100,Home Decor,28,Yes
+56,61702,Divorced,PhD,0,19,Home Decor,38,No
+47,104489,Single,Master,2,57,Fashion,33,Yes
+40,54422,Married,PhD,3,38,Fashion,22,No
+28,64593,Single,Master,4,54,Electronics,38,Yes
+29,83730,Divorced,Bachelor,1,100,Fashion,47,Yes
+18,50297,Married,PhD,5,97,Home Decor,35,Yes
+26,42464,Divorced,Master,5,15,Home Decor,32,Yes
+44,84976,Divorced,Master,4,54,Electronics,16,No
+58,56881,Single,PhD,5,19,Electronics,37,No
+66,41174,Divorced,Bachelor,2,99,Sports,23,No
+52,101713,Divorced,High School,2,16,Home Decor,38,No
+28,36245,Single,High School,2,98,Fashion,28,No
+38,49035,Divorced,Master,0,56,Electronics,19,No
+68,50561,Single,High School,0,19,Home Decor,48,No
+46,64642,Divorced,High School,5,59,Sports,35,Yes
+53,46893,Single,Master,2,14,Sports,47,No
+57,97021,Single,Master,5,27,Electronics,28,No
+20,39687,Single,Bachelor,0,58,Electronics,15,No
+42,43626,Married,Master,0,25,Sports,8,No
+69,68281,Divorced,High School,0,30,Fashion,13,No
+70,31208,Divorced,PhD,1,90,Fashion,17,No
+59,98076,Married,High School,2,26,Home Decor,14,No
+68,64888,Divorced,Bachelor,5,73,Fashion,20,No
+56,102208,Married,Master,3,49,Home Decor,9,No
+25,53578,Divorced,Bachelor,3,23,Electronics,8,No
+51,92667,Single,Bachelor,0,54,Electronics,9,No
+21,45235,Married,PhD,4,93,Sports,43,Yes
+31,40561,Divorced,High School,2,94,Home Decor,28,No
+60,77971,Single,High School,1,75,Electronics,44,Yes
+21,92145,Divorced,PhD,4,70,Sports,38,Yes
+57,53289,Married,Bachelor,1,93,Home Decor,20,No
+58,110647,Married,PhD,4,55,Sports,48,Yes
+26,36782,Single,PhD,4,65,Fashion,41,Yes
+49,106869,Single,Bachelor,4,16,Sports,13,No
+30,101422,Married,Master,5,64,Sports,7,No
+67,85598,Married,PhD,5,44,Home Decor,46,No
+66,32667,Married,High School,0,76,Home Decor,10,No
+56,101260,Married,PhD,5,61,Fashion,23,Yes
+62,35047,Divorced,PhD,4,83,Home Decor,14,No
+39,45578,Divorced,Bachelor,0,99,Electronics,13,No
+22,97078,Married,Master,2,87,Home Decor,5,No
+44,94388,Divorced,High School,3,97,Electronics,19,No
+22,85343,Divorced,Bachelor,1,12,Sports,44,Yes
+65,71068,Single,Master,1,88,Sports,49,Yes
+27,84983,Single,PhD,4,17,Electronics,39,Yes
+43,51000,Married,High School,5,62,Electronics,8,No
+60,104310,Divorced,Bachelor,3,93,Electronics,23,Yes
+40,49020,Divorced,High School,4,30,Electronics,24,No
+64,98871,Divorced,High School,0,51,Sports,8,No
+26,59828,Single,Bachelor,0,21,Sports,23,No
+65,59778,Divorced,Bachelor,4,21,Fashion,14,No
+32,105043,Single,Master,5,70,Sports,29,Yes
+65,110390,Divorced,Bachelor,1,50,Fashion,36,No
+36,109307,Single,Bachelor,5,58,Home Decor,14,No
+40,20907,Married,PhD,5,89,Fashion,13,No
+64,91526,Divorced,High School,3,31,Electronics,27,No
+50,88769,Married,Bachelor,1,35,Home Decor,42,No
+36,64855,Single,PhD,5,7,Electronics,46,No
+46,83875,Single,High School,3,26,Fashion,26,No
+22,34346,Married,PhD,4,55,Fashion,5,No
+52,29819,Divorced,Master,0,90,Fashion,25,No
+56,42502,Divorced,Bachelor,1,1,Home Decor,50,No
+66,100092,Single,High School,1,41,Electronics,45,No
+45,40716,Single,PhD,0,28,Fashion,7,No
+39,20687,Divorced,High School,0,51,Sports,47,No
+33,53821,Married,High School,2,74,Fashion,31,Yes
+65,71621,Single,High School,4,10,Electronics,14,No
+65,64510,Single,High School,5,98,Sports,46,Yes
+60,64334,Single,High School,2,80,Home Decor,48,Yes
+31,55082,Single,High School,0,76,Electronics,13,No
+46,118253,Single,Bachelor,5,67,Home Decor,45,Yes
+68,51824,Married,Master,1,34,Home Decor,49,No
+36,53966,Divorced,PhD,4,96,Sports,19,No
+38,103251,Divorced,Master,1,82,Home Decor,22,Yes
+21,111768,Divorced,High School,0,1,Sports,36,Yes
+41,76422,Single,PhD,0,29,Sports,15,No
+32,102653,Single,PhD,3,11,Sports,11,No
+25,20346,Married,Bachelor,0,63,Electronics,44,Yes
+44,47866,Married,PhD,5,88,Electronics,8,No
+23,48866,Single,PhD,1,72,Home Decor,11,No
+41,35649,Single,PhD,1,95,Electronics,36,No
+51,54943,Married,PhD,0,68,Fashion,48,Yes
+50,45497,Single,High School,2,22,Electronics,6,No
+24,52449,Married,High School,1,72,Sports,29,Yes
+68,76914,Married,PhD,2,90,Home Decor,8,No
+27,44255,Married,Bachelor,4,71,Sports,21,No
+43,66597,Single,Master,4,14,Fashion,29,No
+18,83895,Divorced,Master,2,88,Fashion,9,No
+61,52736,Divorced,Master,5,95,Fashion,34,Yes
+24,26552,Divorced,Bachelor,3,4,Electronics,25,No
+69,39791,Single,PhD,0,45,Fashion,39,No
+21,90685,Married,High School,3,41,Sports,24,No
+27,36932,Single,High School,2,11,Home Decor,20,No
+57,117776,Married,High School,2,83,Sports,10,No
+55,29351,Divorced,PhD,5,16,Sports,16,No
+27,48996,Single,Master,1,17,Electronics,27,No
+68,103564,Married,High School,5,97,Home Decor,18,No
+27,77260,Divorced,Master,3,12,Sports,38,Yes
+35,68904,Divorced,Bachelor,0,53,Fashion,24,Yes
+48,83035,Divorced,PhD,4,70,Electronics,33,Yes
+63,72627,Married,Master,1,44,Sports,9,No
+51,38714,Divorced,Master,3,29,Home Decor,16,No
+51,49441,Married,High School,5,71,Fashion,34,No
+56,42358,Divorced,Master,4,30,Fashion,20,No
+47,51644,Divorced,Bachelor,2,3,Home Decor,26,No
+43,81623,Married,Bachelor,0,82,Sports,8,No
+29,69970,Married,High School,3,27,Home Decor,18,No
+53,84333,Divorced,High School,4,4,Electronics,43,No
+45,88332,Single,Master,0,53,Fashion,34,Yes
+59,102731,Married,High School,5,17,Fashion,35,No
+59,112800,Divorced,High School,3,17,Electronics,42,No
+62,53945,Married,High School,0,100,Home Decor,13,No
+22,33716,Single,Bachelor,0,7,Fashion,39,Yes
+31,43123,Married,High School,0,35,Sports,7,No
+29,88349,Married,High School,1,71,Sports,7,No
+19,76436,Single,High School,1,81,Home Decor,11,No
+19,90123,Divorced,High School,3,54,Fashion,11,No
+63,65510,Divorced,High School,5,61,Fashion,23,Yes
+22,50074,Divorced,PhD,1,34,Electronics,33,Yes
+44,77625,Divorced,Master,3,5,Sports,31,No
+47,107829,Divorced,Master,4,39,Sports,45,No
+66,81559,Single,Bachelor,5,57,Sports,45,Yes
+52,83432,Single,High School,2,20,Home Decor,12,No
+47,55543,Married,Master,4,82,Sports,32,Yes
+34,71317,Divorced,High School,3,28,Sports,24,No
+19,83708,Divorced,PhD,0,25,Electronics,41,Yes
+61,78050,Single,Bachelor,2,2,Electronics,40,No
+42,31392,Divorced,Master,1,76,Electronics,39,No
+70,106834,Single,PhD,2,40,Fashion,18,No
+35,48707,Single,PhD,3,60,Fashion,28,No
+20,29063,Divorced,PhD,0,36,Home Decor,42,Yes
+58,77691,Married,Master,3,37,Sports,40,No
+69,27282,Divorced,Master,2,79,Electronics,49,No
+69,81457,Single,Bachelor,4,14,Electronics,29,No
